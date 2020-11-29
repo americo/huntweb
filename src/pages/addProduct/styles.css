@@ -1,0 +1,41 @@
+.product-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #FFF;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.product-info h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.product-info label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.product-info input {
+    width: 100%;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.product-info button {
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: #da552f;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.product-info button:hover {
+    opacity: 0.7;
+}
